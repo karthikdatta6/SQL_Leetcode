@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0182-duplicate-emails) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
