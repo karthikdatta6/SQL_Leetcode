@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
