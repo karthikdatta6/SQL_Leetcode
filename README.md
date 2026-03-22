@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/karthikdatta6/SQL_Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
